@@ -1,2 +1,12 @@
-# JASP-ANOVA-OHE-Analysis
 Exploring the Impact of Context on the Outgroup Homogeneity Effect Using JASP ANOVA and Regression Analysis
+
+Abstract
+This study investigates the Outgroup Homogeneity Effect (OHE) by applying the study with a 2x2 factorial design by manipulation of the context (Alone vs. Compare) and target population (ingroup vs. outgroup). The OHE adds that people see outgroups as homogeneous than ingroups with the influence that contextual cues have in suppressing this effect being context dependent. In particular, the theoretical basis of relating the effects that these contextual manipulations have on the perceived homogeneity of ingroups and outgroups will be Self-Categorization Theory (SCT). Analysis of Variance (ANOVA) was used and Linear Regression were used to test this hypothesis.
+
+The ANOVA has shown that there is significant main effect of context whereby, the participants had higher homogeneity rating of the outgroup in the Alone condition than in Compare condition. The key impact of target group was however, not significant implying that the ingroup and outgroup were not thought differently without considering the context. There was a high interaction between the context and the target group and therefore, the interaction of the two factors was critical in the interpretation of perceptions towards homogeneity. Linear regression model supported the results of ANOVA and found that the Context and the interaction between the Context and Target are significant predictors of perceived homogeneity and the model predicted 11.3% of the variance in the dependent variable. The results herein underscore the dynamic nature of group perception and how the comparative context contributes towards the perception of groups.
+
+Introduction
+Outgroup Homogeneity Effect (OHE) is the tendency at which people describe outgroups as being more homogeneous as compared to ingroup. This effect has been attributed to Self-Categorization Theory (SCT) that indicates that since there is an intergroup context, people factor outgroups based on their common traits but when there is an intragroup context, they factor ingroup based on their heterogeneous traits.
+
+Conclusion
+This study supports the fact that the context moderates the Outgroup Homogeneity Effect. The high effect of the context and target group indicates that perceptions of homogeneity of ingroups and outgroups are same when groups are directly compared. The discovery presents the significance of the context in instigating the way people imagine group homogeneity and it indicates the usefulness of Self-Categorization Theory in explaining this phenomenon.
